@@ -41,4 +41,4 @@ IndexedDB Setup
 ![IndexedDB](./images/indexeddb.png)
 
 ## Heroku Deployed Link
-https://desolate-taiga-69412.herokuapp.com/
+https://jate-text-editor-sa-550dc28779ac.herokuapp.com/
